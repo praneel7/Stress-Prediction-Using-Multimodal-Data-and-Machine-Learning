@@ -5,7 +5,7 @@
 
 This project explores the use of mobile sensor data and survey responses from the GLOBEM dataset to predict stress levels in students. The final objective is to classify end-of-semester stress into Low, Medium, or High using classical ML models and deep learning architectures. The final classification model, based on Random Forest, achieved an AUROC of 0.810 and AUPRC of 0.690 on an external validation set.
 
-📄 A detailed write-up of the project is available in [`CSE419_Final_Report.pdf`](./CSE419_Final_Report.pdf).
+A detailed write-up of the project is available in [`CSE419_Final_Report.pdf`](./CSE419_Final_Report.pdf).
 
 > **Important Note on Reproducibility**  
 > Due to privacy restrictions around health-related data, the GLOBEM dataset is not publicly available, and certain data processing scripts have been excluded from this repository in accordance with the data use agreement.
